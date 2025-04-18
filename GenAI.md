@@ -1,0 +1,2 @@
+### What is generative AI? 
+Artificial intelligence systems that can create complex and structural artifacts, like text, pictures and videos. Currently, generative AI is predominantly implemented through deep learning techniques.
