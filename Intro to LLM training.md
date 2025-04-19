@@ -10,7 +10,7 @@
 - Requires significantly less data compared to pre-training
 - Focuses on optimizing model performance for specific tasks or domains
 - Utilizes parameter-efficient transfer learning methodologies such as Low-Rank Adaptation (LoRA)
-- Creates either multi-task generalist models or domain-specific specialist implementations
+- Creates either multi-task generalist models (instruction fine-tuning) or domain-specific specialist implementations (supervised fine-tuning)
 
 ## RLHF (Reinforcement Learning from Human Feedback)
 - Implements Proximal Policy Optimization (PPO) to constrain policy divergence
